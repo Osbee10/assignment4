@@ -1,0 +1,22 @@
+.main {
+    justify-content: center;
+}
+.username {
+    display: flex;
+    list-style: none;
+    margin-right: 40px;
+    font-style: inherit;
+   
+    
+}
+.password {
+    display: flex;
+    list-style: none;
+    margin-right: 40px;
+}
+@media screen and (max-width:576px){
+
+    .leftcontainer{
+        background-color: red;
+    }
+    }
